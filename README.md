@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @samwaseee
 - 👀 I’m interested in technology 
 - 🌱 I’m currently learning Computer science and engineering 
-- 💞️ I’m looking to collaborate on C++
+- 💞️ I’m looking to collaborate on HTML,CSS,JS and C++
 - 📫 How to reach me https://www.facebook.com/profile.php?id=100012929386784&mibextid=ZbWKwL
 
 <!---
