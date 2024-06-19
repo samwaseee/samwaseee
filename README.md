@@ -24,8 +24,10 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samwaseee&show_icons=true&locale=en&layout=donut&theme=monokai" alt="samwaseee" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samwaseee&show_icons=true&locale=en&theme=monokai" alt="samwaseee" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samwaseee&theme=monokai" alt="samwaseee" /></p>
+
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=samwaseee&show_icons=true&locale=en&theme=monokai" alt="samwaseee" /></p>
+
+
 
 [![Sam's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=samwasee&theme=neon)](https://github.com/anuraghazra/github-readme-stats)
