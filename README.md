@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Full stack Web development**
 
-- 💬 Ask me about **ReactJS** and **Tech**
+- 💬 Ask me about **React** and **Tech**
 
 - 📫 How to reach me **samwaseee@gmail.com**
 
