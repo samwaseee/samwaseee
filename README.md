@@ -11,7 +11,9 @@
 
 - 📫 How to reach me **samwaseee@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1e6lA9OvqfbAx2P6L_-QTT0kymTctUAi0/view?usp=sharing](https://drive.google.com/file/d/1e6lA9OvqfbAx2P6L_-QTT0kymTctUAi0/view?usp=sharing)
+- 👨‍💻 All of my projects are available at **https://samiur-rahman-wasi.vercel.app**
+
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1xp-ymC6ypvKL4Ju8sESD-JkNIyZjxT6T/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
