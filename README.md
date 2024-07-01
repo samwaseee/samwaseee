@@ -33,7 +33,7 @@
 </div>
 
 <div>
-  <h3 align="left">🧑🏻‍💻Coding Timeline (still exploring different sites for security reasons)</h3>
+  <h6 align="left">🧑🏻‍💻Coding Timeline (still exploring different sites for security reasons)</h6>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=samwasee&theme=monokai" alt="samwaseee"/></p>
 </div>
