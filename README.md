@@ -26,9 +26,9 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samwaseee&theme=monokai" alt="samwaseee" /></p>
 
-<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samwaseee&show_icons=true&locale=en&layout=compact&theme=monokai" alt="samwaseee" /></p>
+<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samwaseee&show_icons=true&locale=en&layout=compact&theme=monokai" alt="samwaseee" width="40%"/></p>
 
-<p align="right">&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=samwaseee&show_icons=true&locale=en&theme=monokai&rank_icon=percentile" alt="samwaseee"/></p>
+<p align="right">&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=samwaseee&show_icons=true&locale=en&theme=monokai&rank_icon=percentile" alt="samwaseee" width="45%"/></p>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=samwasee&theme=monokai" alt="samwaseee"/></p>
 
