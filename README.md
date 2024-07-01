@@ -30,7 +30,9 @@
 
 <p align="right">&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=samwaseee&show_icons=true&locale=en&theme=monokai&rank_icon=percentile" alt="samwaseee" width="45%"/></p>
 
-<h2 align="left">🧑🏻‍💻Coding Timeline (still exploring different sites for security reasons)</h3>
+<div>
+  <h2 align="left">🧑🏻‍💻Coding Timeline (still exploring different sites for security reasons)</h2>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=samwasee&theme=monokai" alt="samwaseee"/></p>
+</div>
 
