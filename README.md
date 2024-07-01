@@ -38,14 +38,20 @@
     <a/>
 </h2>
 <p align="center">
-    <a href="https://www.linkedin.com/in/sumitsharma002/">
-        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/sumitsharma002/" />
+    <a href="https://www.linkedin.com/in/samiur-rahman-wasi">
+        <img align="center" src="https://i.ibb.co/Fbx27nd/icons8-linkedin-64.png"/>
     </a>
-    <a href="https://twitter.com/sumitsharma002">
-        <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="https://twitter.com/sumitsharma002" />
+    <a href="https://twitter.com/samwaseee">
+        <img align="center" src="https://i.ibb.co/bWmThbY/icons8-twitter-64.png" alt="https://twitter.com/samwaseee" />
     </a>
-    <a title="sumitsharma9968@gmail.com" href="mailto:sumitsharma9968@gmail.com">
-        <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="sumitsharma9968@gmail.com" />
+    <a title="samwaseee@gmail.com" href="mailto:samwaseee@gmail.com">
+        <img align="center" src="https://i.ibb.co/Zz2ZyGd/icons8-gmail-64.png" alt="samwaseee@gmail.com" />
+    </a>
+    <a href="https://www.instagram.com/samiur_rahman_wasee">
+        <img align="center" src="https://i.ibb.co/Ky46W6y/icons8-insta-64.png" alt="https://www.instagram.com/samiur_rahman_wasee" />
+    </a>
+    <a href="https://www.facebook.com/Samiur.Rahman.Wasee">
+        <img align="center" src="https://i.ibb.co/8xd4Zg0/icons8-facebook-64.png" alt="https://www.facebook.com/Samiur.Rahman.Wasee" />
     </a>
 </p>
 <br>
