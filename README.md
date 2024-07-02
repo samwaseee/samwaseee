@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Samiur Rahman Wasee</h1>
-<h3 align="center">A passionate MERN stack developer from Bangladesh</h3>
+<p align="center"><img src="https://git-profile-readme-banner.vercel.app/api/python?username=samwaseee&txt=A%20passionate%20MERN%20stack%20developer%20from%20Bangladesh"></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samwaseee&label=Profile%20views&color=0e75b6&style=flat" alt="samwaseee" /> </p>
 
