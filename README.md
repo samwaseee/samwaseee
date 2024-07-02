@@ -1,4 +1,7 @@
-<p align="center"><img src="https://git-profile-readme-banner.vercel.app/api/python?username=samwaseee&txt=A%20passionate%20MERN%20stack%20developer%20from%20Bangladesh"></p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2000&pause=100&color=F70000&center=true&vCenter=true&random=false&width=1000&height=70&lines=Hey+there%2C+Welcome+to+my+Github;I'm+Samiur+Rahman+Wasee;A+passionate+MERN+stack+Developer+from+Bangladesh" alt="Example Usage - README Typing SVG">
+</p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samwaseee&label=Profile%20views&color=0e75b6&style=flat" alt="samwaseee" /> </p>
 
