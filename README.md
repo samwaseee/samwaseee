@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2000&pause=100&color=F70000&center=true&vCenter=true&random=false&width=1000&height=70&lines=Hey+there%2C+Welcome+to+my+Github;I'm+Samiur+Rahman+Wasee;A+passionate+MERN+stack+Developer+from+Bangladesh" alt="Example Usage - README Typing SVG">
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=2000&pause=500&color=F70000&center=true&vCenter=true&random=false&width=1000&height=70&lines=Hey+there%2C+Welcome+to+my+Github;I'm+Samiur+Rahman+Wasee;A+passionate+MERN+stack+Developer+from+Bangladesh" alt="Example Usage - README Typing SVG">
+</h1>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samwaseee&label=Profile%20views&color=0e75b6&style=flat" alt="samwaseee" /> </p>
