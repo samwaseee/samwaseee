@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=2000&pause=500&color=F70000&center=true&vCenter=true&random=false&width=1000&height=70&lines=Hey+there%2C+Welcome+to+my+Github;I'm+Samiur+Rahman+Wasee;A+passionate+MERN+stack+Developer+from+Bangladesh" alt="Example Usage - README Typing SVG">
+  <img src="https://i.ibb.co/869mCLR/github-header-image.png" alt="Example Usage - README Typing SVG">
 </h1>
 
 
