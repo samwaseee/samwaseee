@@ -3,17 +3,24 @@
 </h1>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=samwaseee&label=Profile%20views&color=0e75b6&style=flat" alt="samwaseee" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=samwaseee&label=Profile%20views&color=0e75b6&style=flat" alt="samwaseee" /> </p>
 
-- 🌱 I’m currently learning **Full stack Web development**
+<p align="center">
+🌱 I’m currently learning <strong>Full Stack Web Development</strong>
+</p>
+<p align="center">
+💬 Ask me about <strong>Tech</strong>
+</p>
+<p align="center">
+📫 How to reach me: <strong>samwaseee@gmail.com</strong>
+</p>
+<p align="center">
+👨‍💻 All of my projects are available at <strong><a href="https://samiur-rahman-wasi.vercel.app">My Portfolio</a></strong>
+</p>
+<p align="center">
+📄 Know about my experiences: <a href="https://drive.google.com/file/d/1xp-ymC6ypvKL4Ju8sESD-JkNIyZjxT6T/view"><strong>Resume</strong></a>
+</p>
 
-- 💬 Ask me about **Tech**
-
-- 📫 How to reach me **samwaseee@gmail.com**
-
-- 👨‍💻 All of my projects are available at **https://samiur-rahman-wasi.vercel.app**
-
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1xp-ymC6ypvKL4Ju8sESD-JkNIyZjxT6T/view)
 
 <h3 align="center"><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="40"> <p>My Tech Stack</p> </h3>
 <div align="center"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=9Gfx4Dfxl0JK&format=png&color=000000" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=MWiBjkuHeMVq&format=png&color=000000" alt="tailwind" width="40" height="40"/> </a> </div>
