@@ -49,19 +49,19 @@
 </h2>
 <p align="center">
     <a href="https://www.linkedin.com/in/samiur-rahman-wasi">
-        <img align="center" src="https://i.ibb.co/Fbx27nd/icons8-linkedin-64.png"/>
+        <img align="center" src="https://i.ibb.co/Fbx27nd/icons8-linkedin-64.png" width= "30"/>
     </a>
     <a href="https://twitter.com/samwaseee">
-        <img align="center" src="https://i.ibb.co/bWmThbY/icons8-twitter-64.png" alt="https://twitter.com/samwaseee" />
+        <img align="center" src="https://i.ibb.co/bWmThbY/icons8-twitter-64.png" alt="https://twitter.com/samwaseee" width= "30"/>
     </a>
     <a title="samwaseee@gmail.com" href="mailto:samwaseee@gmail.com">
-        <img align="center" src="https://i.ibb.co/Zz2ZyGd/icons8-gmail-64.png" alt="samwaseee@gmail.com" />
+        <img align="center" src="https://i.ibb.co/Zz2ZyGd/icons8-gmail-64.png" alt="samwaseee@gmail.com" width= "30"/>
     </a>
     <a href="https://www.instagram.com/samiur_rahman_wasee">
-        <img align="center" src="https://i.ibb.co/Ky46W6y/icons8-insta-64.png" alt="https://www.instagram.com/samiur_rahman_wasee" />
+        <img align="center" src="https://i.ibb.co/Ky46W6y/icons8-insta-64.png" alt="https://www.instagram.com/samiur_rahman_wasee" width= "30"/>
     </a>
     <a href="https://www.facebook.com/Samiur.Rahman.Wasee">
-        <img align="center" src="https://i.ibb.co/8xd4Zg0/icons8-facebook-64.png" alt="https://www.facebook.com/Samiur.Rahman.Wasee" />
+        <img align="center" src="https://i.ibb.co/8xd4Zg0/icons8-facebook-64.png" alt="https://www.facebook.com/Samiur.Rahman.Wasee" width= "30"/>
     </a>
 </p>
 <br>
