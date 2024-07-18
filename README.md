@@ -40,6 +40,8 @@
 <h6 align="center">🧑🏻‍💻Coding Timeline </h6>
 <h6 align="center">(still exploring different sites for security reasons)</h6>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=samwasee&theme=monokai" alt="samwaseee"/></p>
+ <!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <h2 align="center">
     Connect with me
