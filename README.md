@@ -41,6 +41,15 @@
 <h6 align="center">(still exploring different sites for security reasons)</h6>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=samwasee&theme=monokai" alt="samwaseee"/></p>
  <!--START_SECTION:waka-->
+
+```txt
+JavaScript   16 hrs 27 mins  ███████████████████████░░   92.32 %
+C++          33 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.17 %
+CSS          25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 %
+JSON         15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
+Git Config   5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
+```
+
 <!--END_SECTION:waka-->
 
 <h2 align="center">
