@@ -43,11 +43,11 @@
  <!--START_SECTION:waka-->
 
 ```txt
-Dart             6 hrs 37 mins   ██████████████░░░░░░░░░░░   55.97 %
-TypeScript       3 hrs 11 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.97 %
-JavaScript       1 hr 32 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.97 %
-JSON             13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 %
-GitIgnore file   8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
+TypeScript       5 hrs 30 mins   ███████████▓░░░░░░░░░░░░░   47.32 %
+Dart             4 hrs 5 mins    ████████▓░░░░░░░░░░░░░░░░   35.14 %
+JavaScript       1 hr 32 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.18 %
+JSON             14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
+GitIgnore file   8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
 ```
 
 <!--END_SECTION:waka-->
