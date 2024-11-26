@@ -37,9 +37,10 @@
 
 
 
-<h6 align="center">🧑🏻‍💻Coding Timeline </h6>
+<h5 align="center">🧑🏻‍💻Coding Timeline </h5>
 <h6 align="center">(still exploring different sites for security reasons)</h6>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=samwasee&theme=monokai" alt="samwaseee"/></p>
+<h6 align="center"> 🗓️ Weekly Time </h6>
  <!--START_SECTION:waka-->
 
 ```txt
