@@ -44,11 +44,7 @@
  <!--START_SECTION:waka-->
 
 ```txt
-Dart              35 mins         █████████████████░░░░░░░░   67.66 %
-GitIgnore file    5 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.06 %
-Markdown          4 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.34 %
-Other             4 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 %
-Gradle            1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
