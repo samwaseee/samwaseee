@@ -44,7 +44,8 @@
  <!--START_SECTION:waka-->
 
 ```txt
-Dart   0 secs          █████████████████████████   100.00 %
+Markdown   0 secs          █████████████████████░░░░   83.49 %
+Dart       0 secs          ████░░░░░░░░░░░░░░░░░░░░░   16.51 %
 ```
 
 <!--END_SECTION:waka-->
