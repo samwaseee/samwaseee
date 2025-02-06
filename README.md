@@ -44,7 +44,10 @@
  <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Markdown         14 mins         ████████████▓░░░░░░░░░░░░   50.54 %
+TypeScript       12 mins         ███████████▒░░░░░░░░░░░░░   44.73 %
+GitIgnore file   1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 %
+Dart             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
 ```
 
 <!--END_SECTION:waka-->
