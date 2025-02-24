@@ -44,7 +44,10 @@
  <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Java Properties   4 mins          ███████████▒░░░░░░░░░░░░░   45.10 %
+Java              3 mins          ███████▓░░░░░░░░░░░░░░░░░   30.95 %
+Markdown          1 min           ████░░░░░░░░░░░░░░░░░░░░░   15.81 %
+Dart              0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 %
 ```
 
 <!--END_SECTION:waka-->
