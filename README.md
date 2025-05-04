@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://i.ibb.co/869mCLR/github-header-image.png" alt="Example Usage - README Typing SVG">
+  <img src="https://i.ibb.co/869mCLR/github-header-image.png" alt="Hey, I'm Samiur Rahman wasee">
 </h1>
 
 
