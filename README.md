@@ -62,9 +62,7 @@
  <!--START_SECTION:waka-->
 
 ```txt
-TeX            1 hr 16 mins    ████████████████████████▒   97.29 %
-JSON           2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 %
-OpenEdge ABL   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
