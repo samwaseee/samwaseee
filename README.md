@@ -49,20 +49,20 @@
 
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=samwaseee&theme=gruvbox" alt="samwaseee" />
+    <img src="https://github-profile-trophy.vercel.app/?username=samwaseee&theme=gruvbox" alt="Trophies">
   </a> 
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=samwaseee&theme=monokai" alt="samwaseee" />
+  <img src="https://streak-stats.demolab.com/?user=samwaseee&theme=monokai" alt="Streak">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samwaseee&show_icons=true&locale=en&theme=monokai&rank_icon=percentile" alt="samwaseee"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=samwaseee&show_icons=true&theme=monokai" alt="Stats">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=samwaseee&show_icons=true&locale=en&layout=compact&theme=monokai" alt="samwaseee"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=samwaseee&show_icons=true&locale=en&layout=compact&theme=monokai" alt="Top Languages"/>
 </p>
 
 <h5 align="center">🧑🏻‍💻 Coding Timeline </h5>
