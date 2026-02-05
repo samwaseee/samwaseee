@@ -50,11 +50,11 @@
 <h3 align="center">📊 My GitHub Stats</h3>
 
 
-<p align="left"> 
+<!-- <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=samwaseee&theme=gruvbox" alt="Trophies">
   </a> 
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=samwaseee&theme=monokai" alt="Streak">

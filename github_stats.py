@@ -12,9 +12,6 @@ def get_stats():
         contributionsCollection {
           totalCommitContributions
         }
-        repositoriesContributedTo(first: 100) {
-          totalCount
-        }
         pullRequests(first: 1) {
           totalCount
         }
@@ -34,7 +31,15 @@ def get_stats():
                              json={"query": query, "variables": {"login": USERNAME}}, 
                              headers=headers)
     
-    data = response.json()["data"]["user"]
+    # Check if the API call was successful
+    if response.status_code != 200:
+        raise Exception(f"GitHub API failed with status {response.status_code}")
+
+    res_json = response.json()
+    if "data" not in res_json or res_json["data"]["user"] is None:
+        raise Exception(f"Could not fetch data for user {USERNAME}. Check your Token.")
+
+    data = res_json["data"]["user"]
     stars = sum(repo["stargazerCount"] for repo in data["repositories"]["nodes"])
     
     return {
@@ -48,7 +53,6 @@ def update_readme(stats):
     with open("README.md", "r", encoding="utf-8") as f:
         content = f.read()
 
-    # Define the template for your native stats card
     stats_markdown = f"""
 | Stat | Count |
 | :--- | :--- |
@@ -58,26 +62,30 @@ def update_readme(stats):
 | 🛠️ Issues | {stats['Issues']} |
 """
     
-    # EXACT tags that match your README markers
+    # FIXED: These must exactly match the markers in your README.md
     start_tag = ""
     end_tag = ""
     
-    # This logic splits the README and replaces only the section between the tags
     parts = content.split(start_tag)
     if len(parts) < 2:
-        print("Start tag not found in README.md")
+        print(f"Error: Could not find {start_tag}")
         return
         
     after_start = parts[1].split(end_tag)
     if len(after_start) < 2:
-        print("End tag not found in README.md")
+        print(f"Error: Could not find {end_tag}")
         return
 
+    # Reconstruct the README with the new stats in the middle
     new_content = parts[0] + start_tag + "\n" + stats_markdown + "\n" + end_tag + after_start[1]
     
     with open("README.md", "w", encoding="utf-8") as f:
         f.write(new_content)
 
 if __name__ == "__main__":
-    stats_data = get_stats()
-    update_readme(stats_data)
+    try:
+        stats_data = get_stats()
+        update_readme(stats_data)
+        print("Successfully updated README.md with native stats!")
+    except Exception as e:
+        print(f"Failed to update: {e}")
