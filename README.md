@@ -47,7 +47,7 @@
 
 <br><br>
 
-<h3 align="center">📊 My GitHub Stats</h3>
+### 📊 My GitHub Stats
 
 
 <!-- <p align="left"> 
