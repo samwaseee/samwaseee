@@ -18,7 +18,7 @@ jobs:
       - name: Run Stats Script
         env:
           GH_STATS_TOKEN: ${{ secrets.GH_STATS_TOKEN }}
-        run: python stats.py
+        run: github_stats.py
       - name: Commit and Push
         run: |
           git config --global user.name "github-actions[bot]"
