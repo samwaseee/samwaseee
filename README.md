@@ -44,20 +44,32 @@
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
 <br><br>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samwaseee&theme=gruvbox" alt="samwaseee" /></a> </p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samwaseee&theme=monokai" alt="samwaseee" /></p>
+<p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=samwaseee&theme=gruvbox" alt="samwaseee" />
+  </a> 
+</p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samwaseee&show_icons=true&locale=en&theme=monokai&rank_icon=percentile" alt="samwaseee"/></p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=samwaseee&theme=monokai" alt="samwaseee" />
+</p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samwaseee&show_icons=true&locale=en&layout=compact&theme=monokai" alt="samwaseee"/></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=samwaseee&show_icons=true&locale=en&theme=monokai&rank_icon=percentile" alt="samwaseee"/>
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=samwaseee&show_icons=true&locale=en&layout=compact&theme=monokai" alt="samwaseee"/>
+</p>
 
-
-<h5 align="center">🧑🏻‍💻Coding Timeline </h5>
+<h5 align="center">🧑🏻‍💻 Coding Timeline </h5>
 <h6 align="center">(still exploring different sites for security reasons)</h6>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=samwasee&theme=monokai" alt="samwaseee"/></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=samwaseee&theme=monokai" alt="samwaseee"/>
+</p>
 <h6 align="center"> 🗓️ Weekly Time </h6>
  <!--START_SECTION:waka-->
 
