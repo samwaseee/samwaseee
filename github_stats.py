@@ -62,9 +62,12 @@ def update_readme(stats):
 | 🛠️ Issues | {stats['Issues']} |
 """
     
-    # FIXED: These must exactly match the markers in your README.md
+    # Ensure these are EXACTLY as written below
     start_tag = ""
     end_tag = ""
+    
+    # Reconstruct the README with a guaranteed newline
+    new_content = parts[0] + start_tag + "\n" + stats_markdown + "\n" + end_tag + after_start[1]
     
     parts = content.split(start_tag)
     if len(parts) < 2:
