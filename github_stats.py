@@ -58,11 +58,22 @@ def update_readme(stats):
 | 🛠️ Issues | {stats['Issues']} |
 """
     
-    # Use markers to inject the data
+    # EXACT tags that match your README markers
     start_tag = ""
     end_tag = ""
     
-    new_content = content.split(start_tag)[0] + start_tag + stats_markdown + end_tag + content.split(end_tag)[1]
+    # This logic splits the README and replaces only the section between the tags
+    parts = content.split(start_tag)
+    if len(parts) < 2:
+        print("Start tag not found in README.md")
+        return
+        
+    after_start = parts[1].split(end_tag)
+    if len(after_start) < 2:
+        print("End tag not found in README.md")
+        return
+
+    new_content = parts[0] + start_tag + "\n" + stats_markdown + "\n" + end_tag + after_start[1]
     
     with open("README.md", "w", encoding="utf-8") as f:
         f.write(new_content)
