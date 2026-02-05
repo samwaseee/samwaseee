@@ -50,9 +50,11 @@ def get_stats():
     }
 
 def update_readme(stats):
+    # 1. Load the README
     with open("README.md", "r", encoding="utf-8") as f:
         content = f.read()
 
+    # 2. Prepare the Table (Clean Markdown)
     stats_markdown = f"""
 | Stat | Count |
 | :--- | :--- |
@@ -62,28 +64,24 @@ def update_readme(stats):
 | 🛠️ Issues | {stats['Issues']} |
 """
     
-    # Ensure these are EXACTLY as written below
     start_tag = ""
     end_tag = ""
     
-    # Reconstruct the README with a guaranteed newline
-    new_content = parts[0] + start_tag + "\n" + stats_markdown + "\n" + end_tag + after_start[1]
-    
-    parts = content.split(start_tag)
-    if len(parts) < 2:
-        print(f"Error: Could not find {start_tag}")
-        return
-        
-    after_start = parts[1].split(end_tag)
-    if len(after_start) < 2:
-        print(f"Error: Could not find {end_tag}")
+    # 3. Splitting Logic
+    if start_tag not in content or end_tag not in content:
+        print(f"Error: Markers not found. Add {start_tag} and {end_tag} to your README.")
         return
 
-    # Reconstruct the README with the new stats in the middle
-    new_content = parts[0] + start_tag + "\n" + stats_markdown + "\n" + end_tag + after_start[1]
+    # This replaces EVERYTHING between the tags with the new table
+    parts = content.split(start_tag)
+    after_end = parts[1].split(end_tag)
     
+    new_content = parts[0] + start_tag + "\n" + stats_markdown + "\n" + end_tag + after_end[1]
+    
+    # 4. Save
     with open("README.md", "w", encoding="utf-8") as f:
         f.write(new_content)
+    print("README.md updated successfully!")
 
 if __name__ == "__main__":
     try:
