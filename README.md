@@ -77,7 +77,8 @@
  <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+TeX            39 mins         █████████████████████████   99.87 %
+OpenEdge ABL   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
 ```
 
 <!--END_SECTION:waka-->
