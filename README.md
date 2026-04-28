@@ -15,7 +15,7 @@
 📫 How to reach me: <strong>samwaseee@gmail.com</strong>
 </p>
 <p align="center">
-👨‍💻 All of my projects are available at <strong><a href="https://samiur-rahman-wasi.vercel.app">My Portfolio</a></strong>
+👨‍💻 All of my projects are available at <strong><a href="https://samiur-rahman-wasee.vercel.app">My Portfolio</a></strong>
 </p>
 <p align="center">
 📄 Know about my experiences: <a href="https://drive.google.com/file/d/1xp-ymC6ypvKL4Ju8sESD-JkNIyZjxT6T/view"><strong>Resume</strong></a>
