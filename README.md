@@ -1,25 +1,30 @@
-<h1 align="center">
-  <img src="https://i.ibb.co/869mCLR/github-header-image.png" alt="Hey, I'm Samiur Rahman wasee">
-</h1>
+<div align="center">
 
+# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=INITIALIZING+WORKSPACE...;SAMIUR+RAHMAN+WASI;FULL+STACK+WEB+DEVELOPER;AI+%26+ML+RESEARCHER" alt="Typing SVG" />
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=samwaseee&label=Profile%20views&color=0e75b6&style=flat" alt="samwaseee" /> </p>
+<img src="https://i.ibb.co/869mCLR/github-header-image.png" alt="Samiur Rahman Wasi">
 
-<p align="center">
-🌱 I’m currently learning <strong>Full Stack Web Development</strong>
-</p>
-<p align="center">
-💬 Ask me about <strong>Tech</strong>
-</p>
-<p align="center">
-📫 How to reach me: <strong>samwaseee@gmail.com</strong>
-</p>
-<p align="center">
-👨‍💻 All of my projects are available at <strong><a href="https://samiur-rahman-wasee.vercel.app">My Portfolio</a></strong>
-</p>
-<p align="center">
-📄 Know about my experiences: <a href="https://drive.google.com/file/d/1xp-ymC6ypvKL4Ju8sESD-JkNIyZjxT6T/view"><strong>Resume</strong></a>
-</p>
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=samwaseee&label=SYSTEM_VIEWS&color=0e75b6&style=for-the-badge" alt="Views" />
+
+<br><br>
+
+<a href="https://samiur-rahman-wasee.vercel.app"><img src="https://img.shields.io/badge/Deploy_Portfolio-0e75b6?style=for-the-badge&logo=Vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="https://drive.google.com/file/d/1xp-ymC6ypvKL4Ju8sESD-JkNIyZjxT6T/view"><img src="https://img.shields.io/badge/Access_Resume-101010?style=for-the-badge&logo=Google-Drive&logoColor=white" alt="Resume"/></a>
+
+</div>
+
+<br>
+
+```yaml
+[~] ➤ whoami
+Name:     Samiur Rahman Wasi
+Location: CSE Dept. @ IIUC
+Status:   Building Next.js architectures & exploring the latent space.
+Focus:    [ "Full Stack Dev", "Federated Learning", "Deepfake Detection" ]
+Ping:     samwaseee@gmail.com
+```
 
 
 <h3 align="center"><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="40"> <p>My Tech Stack</p> </h3>
@@ -49,7 +54,9 @@
 
 <br><br>
 
-### 📊 My GitHub Stats
+<p align="center">
+  <b>📊 My GitHub Stats</b>
+</p>
 
 
 <!-- <p align="left"> 
