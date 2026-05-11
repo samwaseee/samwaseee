@@ -62,9 +62,7 @@
   <img src="https://streak-stats.demolab.com/?user=samwaseee&theme=monokai" alt="Streak">
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samwaseee&show_icons=true&theme=monokai" alt="Stats">
-</p>
+![My GitHub Stats](stats/stats.svg)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=samwaseee&show_icons=true&locale=en&layout=compact&theme=monokai" alt="Top Languages"/>
