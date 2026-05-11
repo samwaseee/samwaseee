@@ -43,7 +43,7 @@ jobs:
       - name: Download Trophies card safely
         run: |
           # Try to download the file, retry up to 3 times if it fails
-          curl --fail --retry 3 -s "https://github-profile-trophy.vercel.app/?username=samwaseee&theme=monokai&rank=-UNKNOWN" -o stats/temp_trophies.svg || true
+          curl --fail --retry 3 -s "https://github-profile-trophy.vercel.app/?username=samwaseee&theme=monokai&rank=-?" -o stats/temp_trophies.svg || true
           
           # Check if the downloaded file actually contains SVG code
           if grep -q "<svg" stats/temp_trophies.svg; then
