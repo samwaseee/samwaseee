@@ -67,7 +67,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=samwaseee&show_icons=true&locale=en&layout=compact&theme=monokai" alt="Top Languages"/>
+  <img src="stats/top-langs.svg" alt="Top Languages">
 </p>
 
 <h5 align="center">🧑🏻‍💻 Coding Timeline </h5>
