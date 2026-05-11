@@ -27,7 +27,7 @@ jobs:
       - name: Commit cards
         run: |
           git config user.name "github-actions"
-          git config user.email "github-actions@://github.com"
+          git config user.email "github-actions@github.com"
           git add stats/*.svg
           git commit -m "Update README cards" || exit 0
           git push
