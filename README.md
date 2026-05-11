@@ -84,11 +84,11 @@ Ping:     samwaseee@gmail.com
  <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   7 hrs                 █████████████████████▓░░░   86.21 %
-Bash         45 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.23 %
-Markdown     10 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 %
-Git Config   3 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
-Prisma       2 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
+TypeScript   4 hrs 57 mins         ██████████████████████▒░░   89.64 %
+Prisma       11 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 %
+Markdown     10 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.24 %
+Bash         7 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.31 %
+CSS          2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
 ```
 
 <!--END_SECTION:waka-->
