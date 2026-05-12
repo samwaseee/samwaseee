@@ -36,7 +36,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: wakatime
-          options: username=samwasee&theme=monokai
+          options: username=samwasee&theme=monokai&langs_count=6
           path: stats/wakatime.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
