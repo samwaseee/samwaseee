@@ -20,7 +20,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: username=samwaseee&show_icons=true&theme=monokai
+          options: username=samwaseee&show_icons=true&theme=monokai&rank_icon=percentile
           path: stats/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
