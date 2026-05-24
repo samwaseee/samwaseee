@@ -84,9 +84,7 @@ Ping:     samwaseee@gmail.com
  <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   57 mins               ████████████████████████▓   98.31 %
-CSS          0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
-Markdown     0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+TypeScript   50 mins               █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
