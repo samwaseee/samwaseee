@@ -84,10 +84,8 @@ Ping:     samwaseee@gmail.com
  <!--START_SECTION:waka-->
 
 ```txt
-JavaScript    1 hr 5 mins           ███████████████████████▓░   94.52 %
-JSON          2 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 %
-Image (svg)   1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
-Other         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+JavaScript    49 mins               ████████████████████████▒   97.71 %
+Image (svg)   1 min                 ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.29 %
 ```
 
 <!--END_SECTION:waka-->
