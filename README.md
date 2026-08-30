@@ -84,10 +84,10 @@ Ping:     samwaseee@gmail.com
  <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   40 mins               ████████████████████▓░░░░   82.22 %
-Other        6 mins                ███▓░░░░░░░░░░░░░░░░░░░░░   14.06 %
-JSON         1 min                 █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 %
-Git Config   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+TypeScript   1 hr 48 mins          ███████████████████████░░   92.56 %
+Other        6 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.88 %
+JSON         1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
+Git Config   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
