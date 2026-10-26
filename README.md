@@ -84,7 +84,8 @@ Ping:     samwaseee@gmail.com
  <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+TypeScript   2 hrs 44 mins         ████████████████████████▒   96.72 %
+Bash         5 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.28 %
 ```
 
 <!--END_SECTION:waka-->
