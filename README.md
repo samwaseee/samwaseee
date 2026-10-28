@@ -84,8 +84,9 @@ Ping:     samwaseee@gmail.com
  <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   3 hrs 40 mins         ████████████████████████▒   97.31 %
-Bash         6 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 %
+TypeScript   4 hrs 35 mins         ███████████████████▒░░░░░   77.45 %
+Python       1 hr 14 mins          █████▒░░░░░░░░░░░░░░░░░░░   20.84 %
+Bash         6 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
 ```
 
 <!--END_SECTION:waka-->
