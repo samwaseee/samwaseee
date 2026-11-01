@@ -17,7 +17,7 @@ jobs:
         run: mkdir -p stats
 
       - name: Generate stats card
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: readme-tools/github-readme-stats-action@v2
         with:
           card: stats
           options: username=samwaseee&show_icons=true&theme=monokai&rank_icon=percentile
@@ -56,9 +56,15 @@ jobs:
 
       - name: Commit cards
         run: |
-          git config user.name "github-actions"
-          git config user.email "github-actions@github.com"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
           git add stats/*.svg
-          git commit -m "Update README cards" || exit 0
-          git pull --rebase
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+
+          git commit -m "Update README cards"
           git push
