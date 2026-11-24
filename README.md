@@ -84,7 +84,8 @@ Ping:     samwaseee@gmail.com
  <!--START_SECTION:waka-->
 
 ```txt
-Python   13 mins               █████████████████████████   100.00 %
+Python     13 mins               ███████████████████▒░░░░░   76.71 %
+Markdown   4 mins                █████▓░░░░░░░░░░░░░░░░░░░   23.29 %
 ```
 
 <!--END_SECTION:waka-->
